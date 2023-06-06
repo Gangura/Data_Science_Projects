@@ -13,9 +13,7 @@ Cookers as an alternative to charcoal. The Project Scope and Objectives were
 
 # Technologies Deployed/Used
 
-![Python Logo](https://github.com/Gangura/Data_Science_Projects/assets/61846218/0ce2cc63-3bc0-4306-b616-6baa8928b40d)
-
-![MySQL logo](https://github.com/Gangura/Data_Science_Projects/assets/61846218/f47c2e0f-a087-4850-ba27-8a1fc3dada2a)
+![Python Logo](https://github.com/Gangura/Data_Science_Projects/assets/61846218/0ce2cc63-3bc0-4306-b616-6baa8928b40d) ![MySQL logo](https://github.com/Gangura/Data_Science_Projects/assets/61846218/f47c2e0f-a087-4850-ba27-8a1fc3dada2a) 
 
 ![kobotoolbox_opengraph_image](https://github.com/Gangura/Data_Science_Projects/assets/61846218/43eeea2b-121b-4ae0-ad8c-2dc9551a76d6)
 
