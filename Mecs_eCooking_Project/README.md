@@ -1,5 +1,5 @@
 # Adaptation of Clean Cooking (eCooking) in Uganda
-The eCooking Project Project in Uganda is an initiative of Modern Energy Cooking Services (MECS) and Loughborough University
+The eCooking Project in Uganda is an initiative of Modern Energy Cooking Services (MECS) and Loughborough University
 United Kingdom funded by UKaid. The Project is Implemented by Burn Manufacturing LLC, USA and involved rolling out of Electric Pressure 
 Cookers as an alternative to charcoal. The Project Scope and Objectives were
 
